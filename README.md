@@ -19,7 +19,7 @@ This repository is organized into the following sections for institute evaluatio
 * **PPT:** [Project Presentation](./Interactive%20Cyber%20Threat%20Visualization%20Dashboard.pptx)
 
 ### 2. Research & Tasks
-* **Model Research:** [Detailed Research PDF](./Model%20Research.pdf)
+* **Model Research:** [Detailed Research PDF](./Model%20Research_Cyber%20Threat.pdf)
 * **Python Implementation:** [Jupyter Notebook](./Python_Task.ipynb)
 * **Data Analysis (SQL):** [SQL Task Script](./SQL_Task.ipynb)
 
