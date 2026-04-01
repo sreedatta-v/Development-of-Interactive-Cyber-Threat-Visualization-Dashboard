@@ -1,52 +1,34 @@
-# Welcome to CyberNexus- AI-Powered Threat Intelligence Platform
+# CyberNexus: Interactive Cyber Threat Visualization Dashboard
 
-## Project info
+This repository contains the complete documentation, research, and project management assets for the CyberNexus platform.
 
-🔗 **URL**: https://cybernexus-seven.vercel.app/
+## 🚀 Quick Links
+* **Live Demo:** [cybernexus-seven.vercel.app](https://cybernexus-seven.vercel.app/)
+* **Development Repository:** [View Source Code on GitHub](https://github.com/sreedatta-v/Cybernexus)
+* **Project Video Demo:** [Insert Your Recorded Video Link Here]
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. 
+## 📂 Project Structure & Deliverables
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+This repository is organized into the following sections for institute evaluation:
 
-Follow these steps:
+### 1. Planning & Agile Documentation
+* **Architecture:** [Architecture Diagram](./architecture.gif)
+* **Agile Docs:** [Link to your Agile/Project Management file]
+* **PPT:** [Link to your Presentation file]
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 2. Research & Tasks
+* **Model Research:** [Detailed Research PDF](./Model%20Research.pdf)
+* **Python Implementation:** [Jupyter Notebook](./Python_Task.ipynb)
+* **Data Analysis (SQL):** [SQL Task Script](./SQL_Task.ipynb)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 3. Technical Core
+The actual development, frontend, and deployment logic are maintained in the **[Cybernexus Development Repo](https://github.com/Arpita0704AD2110/Cybernexus)** to ensure a clean separation between documentation and production code.
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
+## 🛠 Tech Stack
+* **Documentation:** Markdown, LaTeX (for research).
+* **Development:** React, TypeScript, Vite, Tailwind CSS.
+* **Analysis:** Python (Pandas/NumPy), SQL.
