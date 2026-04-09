@@ -32,16 +32,16 @@ This repository is organized into the following sections for Internship evaluati
   
 * **System Architecture Diagram:**
 <div align="center">
-  <img src="your-file-name-as-same-in-repo" alt="Architecture Diagram" width="100%">
+  <img src="Architecture.jpeg" alt="Architecture Diagram" width="100%">
 </div>
 
 ### 2. Research & Tasks
-* **Model Research:** [Detailed Research PDF](your-file-name-as-same-in-repo)
-* **Python Implementation:** [Jupyter Notebook](your-file-name-as-same-in-repo)
-* **Data Analysis (SQL):** [SQL Task Script](your-file-name-as-same-in-repo)
+* **Model Research:** [Detailed Research PDF](./Model%20Research_Cyber%20Threat.pdf)
+* **Python Implementation:** [Jupyter Notebook](./Python_Task.ipynb)
+* **Data Analysis (SQL):** [SQL Task Script](./SQL_Task.ipynb)
 
 ### 3. Technical Core
-The actual development, frontend, and deployment logic are maintained in the **[Cybernexus Development Repo](your-file-name-as-same-in-repo)** to ensure a clean separation between documentation and production code.
+The actual development, frontend, and deployment logic are maintained in the **[Cybernexus Development Repo](https://github.com/sreedatta-v/Cybernexus)** to ensure a clean separation between documentation and production code.
 
 ---
 
