@@ -8,7 +8,7 @@ This repository contains the complete documentation, research, and project manag
 
 * 🌐 **Live Demo:** [cybernexus-seven.vercel.app](https://cybernexus-seven.vercel.app/)
 * 💻 **Development Repository:** [View Source Code on GitHub](https://github.com/sreedatta-v/Cybernexus)
-* 🎥 **Recorded Demo Video:
+* 🎥 **Recorded Demo Video: [Recorded Demo Video](./recorded_video.mp4)
 
 ### 🎥 Project Video Demo
 
